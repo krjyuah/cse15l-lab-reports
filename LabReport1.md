@@ -16,5 +16,8 @@ For windows:
 # Trying Some Commands
 *  Try some special command like cd~, cd, ls -a
 ![Image](command.png)
-* cd, which means change directory
+* cd, which means change directory, since we always need to chang our directory to for example, home directory, previous directory or else, and also which will need to change the end of the symbol of cd, such as "~", "-" or anything else.
 
+* cat, which means concatenate, with is the most frequently used commands, which use to create files, view files or redirect output in terminal.
+
+*ls which is easy to make a mistake with Is, but actually is Ls, it will allows users to list files and directories form the command line interface.
